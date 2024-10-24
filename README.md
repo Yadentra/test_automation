@@ -13,5 +13,5 @@ This repository contains Selenium test automation scripts for various web applic
 ## Contributing:
 Feel free to contribute more test automation scripts for different web applications!
 ## Contact:
-For any questions or contributions, contact Yadentra ([your email address]).
+For any questions or contributions, contact Yadentra.
      
